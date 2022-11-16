@@ -1,0 +1,34 @@
+body{
+background-color: gray;
+min-height: 100vh;
+display: grid;
+
+}
+
+.container{
+    max-width: 1300px;
+    margin:0 auto;
+    padding: 20 px;
+}
+header{
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+}
+.home icon{
+background-color: white;
+height: 42px;
+width: 42px;
+border-radius:50% ;
+padding: 8px;
+cursor: pointer;
+
+}
+.home-icon img{
+    width: 26px; ;
+}
+footer{
+    background-color: brown;
+    margin-top: auto;
+    margin-bottom: 0%;
+}
